@@ -292,12 +292,12 @@ export default function MessageCard({
                               style={{ textIndent: '2rem' }}
                             >
                               Happy Valentine my murgi baccha 🐣
-                              Im sorry for whatever mistakes i've made. Please forgive your Penguin
+                              Im sorry for whatever mistakes I have made. Please forgive your Penguin
                               <br />
                               <br />
 
                               You call me your moon, but yk what jaan without sunlight (Showrab)  there will no moonlight (Noshin)
-                              I love you the most, You're my first&last ♥
+                              I love you the most, You are my first&last ♥
                             </div>
                             <div className="mt-8 ml-auto w-fit">
                               <div className="font-medium text-[#f04299]">
